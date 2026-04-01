@@ -1,0 +1,29 @@
+/* COMENTÁRIO EM CSS */
+
+
+p {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    color: #fff;
+    font-family: Arial;
+    margin: 0;
+    padding: 20px;
+}
+
+header{
+    background-color: gray;
+    padding: 10px;
+    text-align: center;
+}
+
+header nav ul {
+    background-color: gray;
+    padding: 10px;
+    text-align: center;
+}
